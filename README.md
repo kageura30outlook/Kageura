@@ -1,4 +1,4 @@
-- 👋 Hi, I’m kageura30outlook
+- 👋 Hi, I’m Kageura
 - I am currently working and solving questions on Project Euler
 - Here's the link to the questions:https://projecteuler.net/archives
 - I introduce my key achievments in this handmade site:https://kageura30outlook.github.io/Kageura.github.io/
